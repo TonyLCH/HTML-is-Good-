@@ -32,3 +32,5 @@
 ![IMG03](https://github.com/AlexTrinityBlock/HTML-is-Good-/blob/master/resource/IMG3.png?raw=true)
 # 4.div與span區塊
 ![IMG4](https://github.com/AlexTrinityBlock/HTML-is-Good-/blob/master/resource/IMG4.png?raw=true)
+# 5.語意標籤
+![IMG5](https://github.com/AlexTrinityBlock/HTML-is-Good-/blob/master/resource/IMG5.png?raw=true)
