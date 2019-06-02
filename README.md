@@ -17,4 +17,16 @@
 #### 9.dl(有標題的文字格式)-dt(標題)-dd(內文)
 ![IMG02](https://github.com/AlexTrinityBlock/HTML-is-Good-/blob/master/resource/webtext.png?raw=true)
 # 3.文字類型
+#### 1.b是用於標示人名或專有名詞
+#### 2.strong用來強調重點
+#### 3.i是斜體
+#### 4.em是強調(也是斜體)
+#### 5.mark文字高量顯示
+#### 6.mall小型字
+#### 7.s刪除線
+#### 8.del也是刪除線
+#### 9.u文字下線
+#### 10.ins也是文字下線，意義是新增的內容
+#### 11.sup上標字
+#### 12.sub下標字
 ![IMG03](https://github.com/AlexTrinityBlock/HTML-is-Good-/blob/master/resource/IMG3.png?raw=true)
