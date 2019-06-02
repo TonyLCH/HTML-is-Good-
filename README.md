@@ -5,3 +5,13 @@
 ##### (如果有任何錯誤歡迎告訴我)
 # 1. 網頁的基礎
 ![IMG01](https://github.com/AlexTrinityBlock/HTML-is-Good-/blob/master/resource/base_1.png?raw=true)
+# 2. html基礎文字格式
+## 1.h1~6(標題)
+## 2.p(段落)
+## 3.hr(水平分隔線)
+## 4.br(換行)
+## 5.pre(按照原始碼中的文字格式)
+## 6.blockquote(縮排)
+## 7.ol-li(有序標籤)
+## 8.ul-li(無序標籤)
+## 9.dl(有標題的文字格式)-dt(標題)-dd(內文)
