@@ -16,4 +16,5 @@
 #### 8.ul-li(無序標籤)
 #### 9.dl(有標題的文字格式)-dt(標題)-dd(內文)
 ![IMG02](https://github.com/AlexTrinityBlock/HTML-is-Good-/blob/master/resource/webtext.png?raw=true)
-
+# 3.文字類型
+![IMG03](https://github.com/AlexTrinityBlock/HTML-is-Good-/blob/master/resource/IMG3.png?raw=true)
