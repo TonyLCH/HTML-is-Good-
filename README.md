@@ -4,3 +4,4 @@
 #### 以下是我預計要放上的內容
 ##### (如果有任何錯誤歡迎告訴我)
 # 1. 網頁的基礎
+![IMG01](https://github.com/AlexTrinityBlock/HTML-is-Good-/blob/master/resource/base_1.png?raw=true)
