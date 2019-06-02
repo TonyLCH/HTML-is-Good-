@@ -6,7 +6,6 @@
 # 1. 一個網頁的基礎
 ![IMG01](https://github.com/AlexTrinityBlock/HTML-is-Good-/blob/master/resource/base_1.png?raw=true)
 # 2. html基礎文字結構
-![IMG02](https://github.com/AlexTrinityBlock/HTML-is-Good-/blob/master/resource/webtext.png?raw=true)
 #### 1.h1~6(標題)
 #### 2.p(段落)
 #### 3.hr(水平分隔線)
@@ -16,3 +15,5 @@
 #### 7.ol-li(有序標籤)
 #### 8.ul-li(無序標籤)
 #### 9.dl(有標題的文字格式)-dt(標題)-dd(內文)
+![IMG02](https://github.com/AlexTrinityBlock/HTML-is-Good-/blob/master/resource/webtext.png?raw=true)
+
