@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="zh">
+<head>
+    <meta charset="utf-8">
+    <title>Mytitle</title>
+</head>
+<body>
+
+    <h1>外連網站示範</h1>  
+
+    <a href="http://www.google.com" target="_blank">
+    前往google(新分頁開啟) 
+    </a><br>
+    <p>代碼a href="網址" target="_blank"</p>
+
+    <a href="http://www.google.com" target="_parent">
+        前往google(在框架上一層視窗中中開啟)   
+    </a><br>
+    <p>代碼aa href="網址" target="_parent"</p>
+
+    <a href="https://zh.wikipedia.org" target="_self">
+        前往維基百科(在當前框架中開啟) 
+    </a><br>
+    <p>代碼a href="網址" target="_self"</p>
+
+    <a href="https://zh.wikipedia.org" target="_top">
+        前往維基百科(若有框架會移除框架直接開啟)
+    </a><br>
+    <p>代碼a href="網址" target="_top"</p>
+
+    <a href="http://dict.revised.moe.edu.tw/cbdic/" target="MyFrame">
+        前往教育部國語字典(在指定的框架中開啟)  
+    </a><br>
+    <p>代碼a href="網址" target="MyFrame"</p>
+
+    <iframe name="MyFrame" src="MyHtml.html"target="_self" style="height: 500px;width: 900px"></iframe>>    
+
+
+
+
+</body>
