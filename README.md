@@ -33,4 +33,12 @@
 # 4.div與span區塊
 ![IMG4](https://github.com/AlexTrinityBlock/HTML-is-Good-/blob/master/resource/IMG4.png?raw=true)
 # 5.語意標籤
+### 語意標籤不會產生改變版面的功效
+### 它就像註釋一樣，是為了方便讀html代碼的人，理解其中的意義與分布
+#### 1.header
+#### 2.nav導覽列
+#### 3.article文章
+#### 4.section章節
+#### 5.aside側欄
+#### 6.footer頁尾
 ![IMG5](https://github.com/AlexTrinityBlock/HTML-is-Good-/blob/master/resource/IMG5.png?raw=true)
