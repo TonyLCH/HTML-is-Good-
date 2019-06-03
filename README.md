@@ -53,4 +53,5 @@
 #### &lt;a href="#標籤名稱"&gt;連結文字&lt;/a&gt;
 ![IMG7](https://github.com/AlexTrinityBlock/HTML-is-Good-/blob/master/resource/IMG7.png?raw=true)
 # 8.插入圖片
+&lt;img src="圖片連結" width="寬" height="高" alt="破圖時的註解" &gt;
 ![IMG8](https://github.com/AlexTrinityBlock/HTML-is-Good-/blob/master/resource/IMG8.png?raw=true)
