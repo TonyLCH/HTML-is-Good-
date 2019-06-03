@@ -31,6 +31,8 @@
 #### 12.sub下標字
 ![IMG03](https://github.com/AlexTrinityBlock/HTML-is-Good-/blob/master/resource/IMG3.png?raw=true)
 # 4.div與span區塊
+#### &lt;div&gt;&lt;/div&gt;
+#### &lt;span&gt;&lt;/span&gt;
 ![IMG4](https://github.com/AlexTrinityBlock/HTML-is-Good-/blob/master/resource/IMG4.png?raw=true)
 # 5.語意標籤
 ### 語意標籤不會產生改變版面的功效
