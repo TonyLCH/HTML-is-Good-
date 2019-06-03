@@ -60,6 +60,7 @@
 #### &lt;source src="影片連結" type="video/檔案格式"&gt;
 #### 瀏覽器無法支援時的提示
 #### &lt;/video&gt;
+![IMG10](https://github.com/AlexTrinityBlock/HTML-is-Good-/blob/master/resource/IMG10.png?raw=true)
 # 9-2.插入音樂
 #### &lt;audio 控制項&gt;
 #### &lt;source src="檔案位址" type="audio/檔案類型"&gt;
