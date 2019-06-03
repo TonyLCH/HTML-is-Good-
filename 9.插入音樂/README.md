@@ -8,5 +8,6 @@
 #### 2.顯示控制器controls
 #### 3.循環撥放loop
 #### 4.撥放時保持靜音muted
-#### 5.載入控制 preload="載入控制項" 載入控制項:1.沒有輸入任何東西=按下撥放紐之後才開始載入 2.auto=自動載入 
+#### 5.載入控制 preload="載入控制項" 
+#### 載入控制項:1.沒有輸入任何東西=按下撥放紐之後才開始載入 2.auto=自動載入 
 ![IMG9](https://github.com/AlexTrinityBlock/HTML-is-Good-/blob/master/resource/IMG9.png?raw=true)
