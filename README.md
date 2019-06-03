@@ -44,3 +44,5 @@
 ![IMG5](https://github.com/AlexTrinityBlock/HTML-is-Good-/blob/master/resource/IMG5.png?raw=true)
 # 6.站外超連結
 ![IMG6](https://github.com/AlexTrinityBlock/HTML-is-Good-/blob/master/resource/IMG6.png?raw=true)
+# 7.站內超連結
+![IMG7](https://github.com/AlexTrinityBlock/HTML-is-Good-/blob/master/resource/IMG7.png?raw=true)
