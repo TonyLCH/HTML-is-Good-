@@ -52,3 +52,5 @@
 #### &lt;標籤 id="標籤名稱" &gt;
 #### &lt;a href="#標籤名稱"&gt;連結文字&lt;/a&gt;
 ![IMG7](https://github.com/AlexTrinityBlock/HTML-is-Good-/blob/master/resource/IMG7.png?raw=true)
+# 8.插入圖片
+![IMG8](https://github.com/AlexTrinityBlock/HTML-is-Good-/blob/master/resource/IMG8.png?raw=true)
