@@ -55,7 +55,12 @@
 # 8.插入圖片
 #### &lt;img src="圖片連結" width="寬" height="高" alt="破圖時的註解" &gt;
 ![IMG8](https://github.com/AlexTrinityBlock/HTML-is-Good-/blob/master/resource/IMG8.png?raw=true)
-# 9.插入音樂
+# 9-1.插入影片
+#### &lt;video controls  autoplay loop width="寬度" height="高度"&gt;
+#### &lt;source src="影片連結" type="video/檔案格式"&gt;
+#### 瀏覽器無法支援時的提示
+#### &lt;/video&gt;
+# 9-2.插入音樂
 #### &lt;audio 控制項&gt;
 #### &lt;source src="檔案位址" type="audio/檔案類型"&gt;
 #### 音樂無法撥放時的顯示
