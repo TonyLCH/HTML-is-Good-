@@ -78,5 +78,15 @@
 ## 注意:MP3/4是最多瀏覽器支援的格式
 # 其他功能
 ## 表格
+#### table建立表格
+#### border最外層的外框粗細單位為px像素
+#### width,height單位為像素或%
+#### cellspacing內框之間與外框的距離單位為像素
+#### cellpadding字元與像素邊界的距離
+#### tr建立橫向的列
+#### th建立直向的欄(表頭)(字粗一點)
+#### td建立一般的欄位
+#### colspan合併欄位,數值=要合併的欄位數
+#### rowspan合併列，只是機制奇怪，個人較少使用
 ![IMG11](https://github.com/AlexTrinityBlock/HTML-is-Good-/blob/master/resource/IMG11.png?raw=true)
 
