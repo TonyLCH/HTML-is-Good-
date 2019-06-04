@@ -76,3 +76,7 @@
 #### 載入控制項:1.沒有輸入任何東西=按下撥放紐之後才開始載入 2.auto=自動載入 
 ![IMG9](https://github.com/AlexTrinityBlock/HTML-is-Good-/blob/master/resource/IMG9.png?raw=true)
 ## 注意:MP3/4是最多瀏覽器支援的格式
+# 其他功能
+## 表格
+![IMG11](https://github.com/AlexTrinityBlock/HTML-is-Good-/blob/master/resource/IMG11.png?raw=true)
+
