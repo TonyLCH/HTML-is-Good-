@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<meta lang="zh">
+<head>
+    <meta charset="utf-8">
+	<title>我的網頁</title>
+</head>
+<html>
+<body>
+
+<div class="wire">
+<pre>
+這只是個可愛的
+浮動式div視窗
+</pre>
+</div>
+
+<div class="centertext">
+<h1>齊克果語錄</h1>
+<p>每個人都用自己的方式報復這個世界。我的是把悲痛和苦惱深深嵌入心理，用我的笑聲逗每個人開心。如果看到有人受苦，我會同情他，盡我所能安慰他，並在他信誓旦旦說我很幸運時安靜地聽他說。如果我能持續這麼做到我死的那一天，那我就完成復仇了。 </p>
+<p>庸俗的資產階級總是跳過生命中一個很重要的部分，正因如此，他們才拙劣地模仿其他更高階級的人。對他們而言「道德」最高等；道德比才智更加重要；他們從未對偉大的人、有才華的人有過熱情，無論這些人是否符合社會慣例皆然。 
+庸俗的資產階級的道德即是各種警察單位規範海報的簡短摘要；對他們來說，最重要的是要成為國家有用的公民，以及夜晚時分在俱樂部裏大放厥詞；他們從不感懷神祕的事物、遠去的事物，從沒做過任何能感受過深刻恩典的事，比方說口袋裏只帶著四毛錢和一根細長的竹杖就從北門溜達出城；他們根本沒領略過這種人生哲學（諾斯底派奉行這套哲理，是吧），這套哲學的目標是要透過罪愆了解這個世界..
+</p>
+<p>他說，絕望是這樣一種病癥，得到它是一種上帝所賜之福，從未有過它是最大的不幸。絕望并不是寄希望於一種塵俗的困頓、一種現世的苦難是可能被消除的，絕望的自我是一個承受着的自我，持之以恒地建造空中樓閣，一個處於絕望中的人幻想，他的幻想又去和感情、認識、意誌發生着關系。許多人都多少帶着一點兒絕望生活，少數人才經由絕望達成精神上的自我。</p>
+<p>思想接踵而至；我剛剛有了一個想法，正要寫下來，一個新的想法又噴湧而出——抓它、撓它——瘋狂——神經錯亂! 衡量一個人的標準是：在多長的時間裏，以及在怎樣的層次上他能夠甘於寂寞，無需得到他人的理解。能夠畢生忍受孤獨的人，能夠在孤獨中決定永恒之意義的人，距離孩提時代以及代表人類動物性的社會最遠。
+</p>
+</div>
+
+<div class="toptext">
+生命很深奧
+</div>
+
+
+
+</body>
+</html>
+
+<!--CSS-->
+<style>
+
+/*浮動div語法*/
+.wire{
+/*距離頂端的高度*/
+top:90%;
+/*距離左側的寬度*/
+left:70%;
+/*div背景色*/
+background-color:white;
+/*div字體色*/
+color:black;
+/*div寬度*/
+width:20%;
+/*這行造成了浮動視窗效果*/
+position:fixed;
+/*div字體置中*/
+text-align:center;
+/*div邊框設定*/
+border-style:solid;
+border-color:orange;
+border-width:10px;
+/*浮在最上層*/
+z-index:10
+}
+
+/*背景填滿語法*/
+body{
+background: url(https://images.pexels.com/photos/1646275/pexels-photo-1646275.jpeg) center center fixed no-repeat;　//設定背景圖片的呈現方式
+background-size: cover;　//設定背景圖片的填滿方式
+}
+
+/*中央欄位語法*/
+.centertext{
+position:absolute;
+background-color:white;
+color:black;
+width:60%;
+left:20%;
+top:100px;
+font-size:20px;
+border-style:solid;
+border-width:30px;
+border-color:white;
+/*新細明體*/
+font-family:PMingLiU;
+font-weight:bold;
+}
+
+/*上排文字語法*/
+.toptext{
+background-color:#444444;
+position:fixed;
+width:100%;
+top:0%
+height:10%;
+opacity:0.9;
+text-align:left;
+color:white;
+font-size:40px
+}
+
+</style>
+
+
