@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<meta lang="zh">
+<head>
+    <meta charset="utf-8">
+	<title>動畫測試</title>
+</head>
+<html>
+<body>
+	<a href="https://maoudamashii.jokersounds.com/">
+		<div class="MyTrans"style="top:0%;left:0%;"></div>
+	</a>
+	<div class="MyTrans" id="item" style="top:10% left:0%" ></div>>
+
+
+
+
+</body>
+</html>
+
+<!--CSS-->
+<style  type="text/css">
+/*背景填滿語法*/
+body{
+background-color:black;
+}
+/*轉換*/
+.MyTrans{
+background-color:darkgray;
+transition: all 0.5s;
+width:100px;
+height:50px;
+border-radius:40px;
+}
+.MyTrans:hover{
+background-color: aqua;
+border-radius:0px;
+width: 100px;
+height:100px;
+clip-path: polygon(0 100%,50% 0%,100% 100%);
+
+}
+</style>
+
